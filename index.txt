@@ -1,3 +1,3 @@
 intro git
 lien vers page contact
-Integration de la navbar dans l'index conflit
+Integration de la navbar dans l'index conflit zzzzzz
