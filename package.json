@@ -1,0 +1,23 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "navbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://azefgh456: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@github.com/azefgh456/cda-poitiers-2023-cour-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azefgh456/cda-poitiers-2023-cour-git/issues"
+  },
+  "homepage": "https://github.com/azefgh456/cda-poitiers-2023-cour-git#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
